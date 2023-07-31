@@ -1,7 +1,8 @@
 # Chess
 A Chess Game
 
-Alpha Version. Some bugs. "Dump" Chess Bot. 100% Java
+Alpha Version. Some bugs. "Dump" Chess Bot. 100% Java.
+
 Program doesnt automatically install and place the Files now.
 
 TODO´s:

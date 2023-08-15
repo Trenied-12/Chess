@@ -1,2 +1,2 @@
-Version: 1.1 -> https://github.com/Trenied-12/Chess/raw/main/Chess%201.1.jar
-Version: 1.0 -> https://github.com/Trenied-12/Chess/raw/main/Chess.jar
+Version: 1.1
+Version: 1.0

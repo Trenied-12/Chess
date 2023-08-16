@@ -1,4 +1,4 @@
-Version: "1.5" -> "https://github.com/Trenied-12/Chess/raw/main/Chess%201.5.jar"
+Version: "1.5" -> "https://github.com/Trenied-12/Chess/raw/main/Chess2.jar"
 Version: "1.4" -> "https://github.com/Trenied-12/Chess/raw/main/Chess1.jar"
 Version: "1.3" -> "https://github.com/Trenied-12/Chess/raw/main/Chess%201.3.jar"
 Version: "1.2" -> "https://github.com/Trenied-12/Chess/raw/main/Chess%201.2.jar"

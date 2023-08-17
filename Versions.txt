@@ -1,4 +1,4 @@
-Version: "1.7" -> "https://github.com/Trenied-12/Chess/raw/main/Chess_1.7.jar" | "151 KB"
+Version: "1.7" -> "https://github.com/Trenied-12/Chess/raw/main/Chess_1.7.jar" | "152 KB"
 Version: "1.6" -> "https://github.com/Trenied-12/Chess/raw/main/Chess_1.6.jar" | "151 KB"
 Version: "1.5" -> "https://github.com/Trenied-12/Chess/raw/main/Chess_1.5.jar" | "151 KB"
 Version: "1.4" -> "https://github.com/Trenied-12/Chess/raw/main/Chess_1.4.jar" | "150 KB"
